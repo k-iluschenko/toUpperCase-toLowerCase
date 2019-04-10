@@ -48,4 +48,4 @@ function translateToUpperCase(str, upperCase = true) {
 
 console.log(toLowerCase("qweQWEая"));
 console.log(toUpperCase("Aaaaz"));
-console.log(translateToUpperCase("asdASAjlkjlkjDKJD", true));
+console.log(translateToUpperCase("asdASAjlkjlkjDKJD"));
